@@ -226,31 +226,31 @@ enter the account number
 enter the account type
 s
  SAVING ACCOUNT 
-enter the your chosse
+enter the your choose
 1. display || 2.deposit || 3. withdrow || 4. exit
-enter the your next chosse
+enter the your next choose
 1
  the total amount = 500
-enter the your next chosse
+enter the your next choose
 2
 enter the amount
 500
-enter the your next chosse
+enter the your next choose
 1
  the total amount = 1000
-enter the your next chosse
+enter the your next choose
 3
 enter the amount
 600
 you have a less amount 
-enter the your next chosse
+enter the your next choose
 3
 enter the amount
 400
-enter the your next chosse
+enter the your next choose
 1
  the total amount = 600
-enter the your next chosse
+enter the your next choose
 4
 exit your name = kartik
 your account no. = 123
