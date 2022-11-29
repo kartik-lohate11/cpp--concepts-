@@ -110,11 +110,11 @@ int main()
             {
                 s_acc.get_acc_del();
                 cout << " SAVING ACCOUNT " << endl;
-                cout << "enter the your chosse" << endl;
+                cout << "enter the your choose" << endl;
                 cout << "1. display || 2.deposit || 3. withdrow || 4. exit " << endl;
                 while (a1 != 0)
                 {
-                    cout << "enter the your next chosse" << endl;
+                    cout << "enter the your next choose" << endl;
                     cin >> ch;
                     switch (ch)
                     {
@@ -158,12 +158,12 @@ int main()
                 {
                     c_acc.get_acc_del();
                     cout << " current ACCOUNT " << endl;
-                    cout << "enter the your chosse" << endl;
+                    cout << "enter the your choose" << endl;
                     cout << "1. display || 2.deposit || 3. withdrow || 4. exit " << endl;
 
                     while (a2 != 0)
                     {
-                        cout << "enter the your next chosse" << endl;
+                        cout << "enter the your next choose" << endl;
                         cin >> ch;
                         switch (ch)
                         {
