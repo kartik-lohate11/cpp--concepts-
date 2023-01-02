@@ -7,11 +7,7 @@ class complex
   int r, i;
 
 public:
-  complex()
-  {
-    int a;
-  }
-  complex(int a, int b)
+  void add(int a, int b)
   {
     r = a;
     i = b;
@@ -36,7 +32,9 @@ void complex ::display()
 
 int main()
 {
-  complex r1(2, 3), r2(12, 5);
+  complex r1, r2;
+  r1.add(12, 13);
+  r2.add(1, 15);
   complex r = r1 + r2;
   r.display();
 
